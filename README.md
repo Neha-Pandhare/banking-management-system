@@ -138,3 +138,19 @@ Examples:
 Java Developer | Spring Boot | REST APIs | MySQL
 
 GitHub: https://github.com/Neha-Pandhare
+
+## API Testing Screenshots
+
+The REST APIs were tested successfully using Postman.
+
+### 1. Create Account
+![Create Account](create-account.png)
+
+### 2. Get All Accounts
+![Get All Accounts](get-all-accounts.png)
+
+### 3. Deposit Money
+![Deposit Money](deposit-money-account-12.png)
+
+### 4. Withdraw Money
+![Withdraw Money](withdraw-money-account-12.png)
